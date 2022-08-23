@@ -1,0 +1,11 @@
+.DS_store
+dist
+cabal-dev
+cabal.sandbox.config
+.cabal-sandbox
+main
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv

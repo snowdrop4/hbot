@@ -1,0 +1,7 @@
+server: irc.freenode.org
+port: 6667
+channels: ##bot-testing
+nickname: hbot
+username: username
+realname: realname
+password: password
